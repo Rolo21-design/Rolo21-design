@@ -5,16 +5,16 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Ali, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
+👋 Hi there! I’m Rohit, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
 
 ## About Me 🎓 
 
 
 -- please update this part with your pitch --
-I hold a degree in Computer Science with a focus on data analytics. 
+I hold a Level 3 National Diploma in Computing I.T with a focus on the computing world. 
 
-📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
-🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
+📊 Proficient in Python, SQL, and data visualization tools (PowerBI,Tableau). 
+🧩 Skilled in data cleaning, Data visulisation, and managing data. 
 🌐 Curious about web scraping and API integration. 
 
 ## Projects
@@ -69,10 +69,10 @@ I hold a degree in Computer Science with a focus on data analytics.
 
 
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [email address](mailto:training.justit@gmail.com)
-* 🧠  I'm learning R, Pandas
-* 🤝  I'm open to collaborating on Health Economics, Healthcare projects
+* 🌍  I'm based in Wolverhampton
+* ✉️  You can contact me at [email address](rohsha689@gmail.com)
+* 🧠  I'm learning Python, Pandas, Excel, PowerBI, Tableau,
+* 🤝  I'm open to collaborating on Health Economics, Healthcare projects, sports, care, and open to many other opportunites  
 
 ### Skills
 
