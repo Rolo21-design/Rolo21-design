@@ -27,13 +27,15 @@ I hold a Level 3 National Diploma in Computing I.T with a focus on the computing
 
 ### Tableau
 - **My first Tableau visual**:(https://public.tableau.com/app/profile/rohit.sharma3474/viz/MyFirstTableauvisual_17423138427850/TracingJobMarket?publish=yes)
-  - **Description**: Brief description of what the project does and its key features.
+  - **Description**: Get ready to meet Tableau, the ultimate wizard of data visualization that turns boring spreadsheets into jaw-dropping, interactive masterpieces! 🎨✨
+Picture this: mountains of data sitting idle, waiting to tell a story. Tableau steps in as your creative partner, transforming raw numbers into dynamic visuals that captivate, inform, and inspire. It’s like having a digital artist and a data detective rolled into one, making your insights not only powerful but beautiful.
   - **Technologies Used**: List the libraries/packages used in the project.
 
 ### PowerBI
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+- **Toursim**:(https://app.powerbi.com/groups/80343194-59b1-4b7e-94e1-dde9878f18af/reports/3b0fde3e-44c7-4b44-bc61-2fa947630839/a2e100873529c81b73db?experience=power-bi)
+  - **Description**:Imagine this: you've got data scattered across spreadsheets, databases, and clouds. It’s messy, intimidating, and practically begging for some TLC. Enter Power BI, Microsoft’s powerhouse tool that doesn’t just analyze data—it breathes life into it. With its sleek visualisations, real-time dashboards, and user-friendly interface, Power BI takes raw data and transforms it into stunning, interactive stories that anyone can understand. 
+
+  - **Technologies Used**:.
 
 
 ### Access
