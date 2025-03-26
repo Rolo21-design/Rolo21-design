@@ -25,8 +25,8 @@ I hold a Level 3 National Diploma in Computing I.T with a focus on the computing
 3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
 
 
-### R
-- **Project Name**: [Project Title](link-to-project)
+### Tableau
+- **My first Tableau visual**:(https://public.tableau.com/app/profile/rohit.sharma3474/viz/MyFirstTableauvisual_17423138427850/TracingJobMarket?publish=yes)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the libraries/packages used in the project.
 
@@ -35,10 +35,6 @@ I hold a Level 3 National Diploma in Computing I.T with a focus on the computing
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
-### Tableau
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
 
 ### Access
 - **Project Name**: [Project Title](link-to-project)
